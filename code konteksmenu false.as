@@ -1,0 +1,1 @@
+﻿stage.showDefaultContextMenu=false;
